@@ -1,2 +1,1 @@
-# SystemDesgin
-System Design
+![Alt text](./architech_diagram.png)
